@@ -15,7 +15,7 @@
   "author": "Iryna Ielkina <ielkinairinka@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/ielkina/js-project/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
